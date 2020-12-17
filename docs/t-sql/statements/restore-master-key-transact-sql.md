@@ -55,7 +55,7 @@ RESTORE MASTER KEY FROM FILE = 'path_to_file'
  FILE ='*path_to_file*'  
  Gibt den vollständigen Pfad, einschließlich des Dateinamens, zum gespeicherten Datenbank-Hauptschlüssel an. *path_to_file* kann ein lokaler Pfad oder ein UNC-Pfad zu einem Netzwerkspeicherort sein.  
   
- ENCRYPTION BY PASSWORD ='*password*'  
+ DECRYPTION BY PASSWORD ='*password*'  
  Gibt das Kennwort an, das zum Entschlüsseln des aus einer Datei importierten Datenbank-Hauptschlüssels erforderlich ist.  
   
  ENCRYPTION BY PASSWORD ='*password*'  
