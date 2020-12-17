@@ -29,8 +29,8 @@ Das weitervertreibbare Installationsprogramm für Microsoft ODBC Driver 17 for 
 
 Version 17.6.1 ist die neueste allgemein verfügbare Version. Wenn Sie eine frühere Version von Microsoft ODBC Driver 17 for SQL Server installiert haben, können Sie durch Installieren der Version 17.6.1 ein Upgrade auf Version 17.6.1 durchführen.
 
-**[![Download](../../ssms/media/download-icon.png) Herunterladen von Microsoft OLE DB Driver 17 for SQL Server (x64)](https://go.microsoft.com/fwlink/?linkid=2137027)**  
-**[![Download](../../ssms/media/download-icon.png) Herunterladen von Microsoft OLE DB Driver 17 for SQL Server (x86)](https://go.microsoft.com/fwlink/?linkid=2137028)**  
+**[![Download](../../ssms/media/download-icon.png) Herunterladen von Microsoft ODBC Driver 17 for SQL Server (x64)](https://go.microsoft.com/fwlink/?linkid=2137027)**  
+**[![Download](../../ssms/media/download-icon.png) Herunterladen von Microsoft ODBC Driver 17 for SQL Server (x86)](https://go.microsoft.com/fwlink/?linkid=2137028)**  
 
 ### <a name="version-information"></a>Versionsinformationen
 
