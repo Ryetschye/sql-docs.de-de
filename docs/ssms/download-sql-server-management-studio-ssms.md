@@ -150,7 +150,7 @@ Unterstützte Hardware:
 - Festplattenspeicherplatz: Mindestens 2 GB bis zu 10 GB verfügbarer Speicherplatz
 
 > [!NOTE]
-> SSMS ist nur als 32-Bit-Anwendung für Windows verfügbar. Wenn Sie ein Tool benötigen, das auf anderen Betriebssystemen als Windows ausgeführt wird, wird Azure Data Studio empfohlen. Azure Data Studio ist ein plattformübergreifendes Tool, das unter macOS, Linux sowie Windows ausgeführt werden kann. Weitere Informationen finden Sie unter [Azure Data Studio](../azure-data-studio/what-is.md).
+> SSMS ist nur als 64-Bit-Anwendung für Windows verfügbar. Wenn Sie ein Tool benötigen, das auf anderen Betriebssystemen als Windows ausgeführt wird, wird Azure Data Studio empfohlen. Azure Data Studio ist ein plattformübergreifendes Tool, das unter macOS, Linux sowie Windows ausgeführt werden kann. Weitere Informationen finden Sie unter [Azure Data Studio](../azure-data-studio/what-is.md).
 
 [!INCLUDE[get-help-sql-tools](../includes/paragraph-content/get-help-sql-tools.md)]
 
